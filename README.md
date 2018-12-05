@@ -1,2 +1,13 @@
-# pokemon-unown-translate
-Let's read in Pokemon.
+Pokemon Unown Translate
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Run
+
+```sh
+yarn
+```
+
+```sh
+yarn start
+```
