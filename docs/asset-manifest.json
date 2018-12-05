@@ -1,14 +1,14 @@
 {
-  "main.css": "/explooosion/pokemon-unown-translate/static/css/main.3340a0a1.chunk.css",
-  "main.js": "/explooosion/pokemon-unown-translate/static/js/main.46a3e797.chunk.js",
-  "main.js.map": "/explooosion/pokemon-unown-translate/static/js/main.46a3e797.chunk.js.map",
-  "static/js/1.4d4949a9.chunk.js": "/explooosion/pokemon-unown-translate/static/js/1.4d4949a9.chunk.js",
-  "static/js/1.4d4949a9.chunk.js.map": "/explooosion/pokemon-unown-translate/static/js/1.4d4949a9.chunk.js.map",
-  "runtime~main.js": "/explooosion/pokemon-unown-translate/static/js/runtime~main.81d199ba.js",
-  "runtime~main.js.map": "/explooosion/pokemon-unown-translate/static/js/runtime~main.81d199ba.js.map",
-  "static/media/TranslateBox.scss": "/explooosion/pokemon-unown-translate/static/media/Unown.61206397.ttf",
-  "static/css/main.3340a0a1.chunk.css.map": "/explooosion/pokemon-unown-translate/static/css/main.3340a0a1.chunk.css.map",
-  "index.html": "/explooosion/pokemon-unown-translate/index.html",
-  "precache-manifest.5cffd9c38e05b00a1e2745b68ac246e4.js": "/explooosion/pokemon-unown-translate/precache-manifest.5cffd9c38e05b00a1e2745b68ac246e4.js",
-  "service-worker.js": "/explooosion/pokemon-unown-translate/service-worker.js"
+  "main.css": "/static/css/main.66d67ca6.chunk.css",
+  "main.js": "/static/js/main.feb6990b.chunk.js",
+  "main.js.map": "/static/js/main.feb6990b.chunk.js.map",
+  "static/js/1.4d4949a9.chunk.js": "/static/js/1.4d4949a9.chunk.js",
+  "static/js/1.4d4949a9.chunk.js.map": "/static/js/1.4d4949a9.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/TranslateBox.scss": "/static/media/Unown.61206397.ttf",
+  "static/css/main.66d67ca6.chunk.css.map": "/static/css/main.66d67ca6.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.c48201b3761dc229653821e047f2ff7b.js": "/precache-manifest.c48201b3761dc229653821e047f2ff7b.js",
+  "service-worker.js": "/service-worker.js"
 }
